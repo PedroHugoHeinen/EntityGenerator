@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Executando gerador de modelos baseado em XML.");
